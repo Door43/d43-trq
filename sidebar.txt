@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trq:home|Door43 (trq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trq|d43-trq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trq/archive/master.zip|d43-trq.zip]]
+
+**Recent Changes**
+{{changes>ns = trq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trq|Ethnologue data]]
+
